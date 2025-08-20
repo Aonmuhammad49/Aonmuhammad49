@@ -71,7 +71,7 @@
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Aonmuhammad49?style=flat-square&color=black" />
   </div>
   <hr style="border-color: #333333; margin: 20px 0;">
-<h2>:label: 🧩 Profile Badgess</h2>
+<h2 align="center">:label: 🧩 Profile Badgess</h2>
 <p align="center">
   <img alt="Contributors Badge" src="https://user-badge.committers.top/pakistan/YOUR_USERNAME.svg?color=black" />
   <a href="https://github.com/sponsors/Aonmuhammad49">
