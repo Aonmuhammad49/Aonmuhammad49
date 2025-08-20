@@ -5,7 +5,8 @@
 </div>
 
 <hr>
-
+<img align="right" alt="Coding" width="400" height="250" style="border-radius:20px;"
+	src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
 
 💡 I'm a Student and Tech Enthusiast.<br>
