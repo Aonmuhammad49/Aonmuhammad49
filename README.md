@@ -44,7 +44,7 @@
 </table>
 
 <hr>
-<h2>:label: ✨ GitHub Achievements</h2>
+<h2 align="center">:label: ✨ GitHub Achievements</h2>
 
 <div align="center">
   <a href="https://github.com/Aonmuhammad49/github-profile-trophy">
