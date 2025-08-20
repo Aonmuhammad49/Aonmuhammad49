@@ -47,19 +47,11 @@
 
 <h2>:label: ✨ GitHub Achievements</h2>
 
-<div align="center">
-
-<a href="https://github.com/Aonmuhammad49/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aonmuhammad49&theme=onedark&row=2&column=3" alt="trophy" width="450" height="220"/>
-</a>
-
-</div>
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tahasaif3&theme=onedark&row=2&column=3)](https://github.com/Tahasaif3/github-profile-trophy)
 
 <hr>
+<h2>:label: 🧩 GitHub Highlights</h2>
 
-### 📊 GitHub Highlights
 <p align="center">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aonmuhammad49&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" />
 </p>
