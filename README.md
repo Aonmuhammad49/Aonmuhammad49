@@ -6,16 +6,17 @@
 
 <hr>
 
-<img align="right" alt="Coding" width="400" height="250" style="border-radius:20px;" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
 
-### 🚀 About Me
 💡 I'm a Student and Tech Enthusiast.<br>
-• 🌱 Currently diving into **Cloud Applied Generative AI**.<br>
-• 💻 Specialized **Frontend Developer** (Next.js, React, TypeScript, Tailwind CSS).<br>
-• ⚡ Exploring **AI, Backend (Node.js/FastAPI), and Cloud**.<br>
-• 👨‍💻 Based in **Pakistan**, building dynamic & scalable web apps.<br>
-• ✨ 1+ years creating **modern, responsive UIs**.<br>
-• 🤝 Open to collaborations and opportunities.<br>
+• 🌱 I’m currently diving into Cloud Applied Generative AI Engineering.<br> 
+• 🚀 Consistent, Hard-working, and Passionate about delivering value through technology.<br> 
+• 🌐 A Specialized Frontend Developer with expertise in **Next.js, TypeScript, React, Tailwind CSS, and Sanity CMS**.<br>
+• 👨‍💻 Based in Hyderabad, Pakistan, crafting dynamic and scalable web applications.<br>
+• 📖 Currently advancing my knowledge through the **GIAIC** program.<br>
+• ✨ 2+ years of hands-on experience in **Frontend Development**, including building modern, responsive UIs with cutting-edge tools and technologies.<br>
+• 🖥 Proficient in **Backend frameworks and tools** including **FastAPI, OpenAI Agent SDK, and Node.js** for building scalable and intelligent applications.<br>
+• 💬 Always open to collaborations and opportunities. Let’s connect on **Telegram (@Tsaif22)**.<br>
 
 <hr>
 
