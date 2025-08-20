@@ -45,7 +45,7 @@
 
 <hr>
 
-### 🏆 Achievements<div align="center">
+<h2>:label: ✨ GitHub Achievements</h2>
 
 <div align="center">
 
