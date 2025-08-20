@@ -19,8 +19,11 @@
 
 <hr>
 
-### 🤝 Connect With Me
+
 <p align="center">
+  ### 🤝 Connect With Me
+
+  
   <a href="mailto:aon0342chohan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" /></a>
   <a href="https://web.telegram.org/a/"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" /></a>
   <a href="https://www.linkedin.com/in/aonmuhammadchohan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" /></a>
