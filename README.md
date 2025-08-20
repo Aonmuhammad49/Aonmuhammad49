@@ -44,10 +44,13 @@
 </table>
 
 <hr>
-
 <h2>:label: ✨ GitHub Achievements</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tahasaif3&theme=onedark&row=2&column=3)](https://github.com/Tahasaif3/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/Aonmuhammad49/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aonmuhammad49&theme=onedark&row=2&column=3" alt="trophy" />
+  </a>
+</div>
 
 <hr>
 <h2>:label: 🧩 GitHub Highlights</h2>
