@@ -10,7 +10,7 @@
 • 💻 Specialized **Frontend Developer** (Next.js, React, TypeScript, Tailwind CSS).<br>
 • ⚡ Exploring **AI, Backend (Node.js/FastAPI), and Cloud**.<br>
 • 👨‍💻 Based in **Pakistan**, building dynamic & scalable web apps.<br>
-• ✨ 2+ years creating **modern, responsive UIs**.<br>
+• ✨ 1+ years creating **modern, responsive UIs**.<br>
 • 🤝 Open to collaborations and opportunities.<br>
 
 <hr>
@@ -20,7 +20,7 @@
   <a href="mailto:aon0342chohan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" /></a>
   <a href="https://web.telegram.org/a/"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" /></a>
   <a href="https://www.linkedin.com/in/aonmuhammadchohan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61568467793100"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=F0DB4F" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61568467793100"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=F0DB4F" /></a><br/>
   <a href="https://www.instagram.com/aonmuhammadchohan/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" /></a>
   <a href="https://www.youtube.com/@AonMuhammadchohan"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" /></a>
   <a href="https://www.fiverr.com/s/e61pLY4"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" /></a>
