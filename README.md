@@ -84,41 +84,77 @@
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 <hr>
+<div align="center">
 
 <h2>:label: Languages</h2>
+<a href="#">
+  <img alt="Taha Saif.s Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" />
+</a>
+<hr style="border-color: #333333; margin: 20px 0;">
 
-<div>
- <a href="#"><img alt="Taha Saif.s Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-      <hr style="border-color: #333333; margin: 20px 0;">
+<h2>:label: Github Stats</h2>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aonmuhammad49&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px"/>
+</a>
 
-<h2>:label: Github Stats</h2>	
- <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahasaif3&show_icons=true&ccinclude_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px"/></a>
-</div>
 <hr>
 <h2>⚡ Skills</h2>
 
-| # | # | # | # |
-| :------------ | :--------------- | :----- | :----- 
-| <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> | 
-| <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Remix-0D1117?style=flat-square&logo=remix&logoColor=F0DB4F"> | 
-| <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=F0DB4F"> | 
-| <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F">  | 
-| <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=F0DB4F"></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-Remix-0D1117?style=flat-square&logo=remix&logoColor=F0DB4F"></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=F0DB4F"></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F"></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F"></td>
+<td><img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F"></td>
+</tr>
+</table>
+
 <hr>
-<h2>⚡Streaks</h2>
-<a href="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=dark&bg_color=0D1117">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahasaif3&theme=dark&bg_color=0D1117" alt="GitHub Streak" />
+<h2>⚡ Streaks</h2>
+<a href="https://github-readme-streak-stats.herokuapp.com?user=Aonmuhammad49&theme=dark&bg_color=0D1117">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aonmuhammad49&theme=dark&bg_color=0D1117" alt="GitHub Streak" />
 </a>
+
 <hr>
 <h2>🔝 Top Contributed Repo </h2>
-<a href="https://github-contributor-stats.vercel.app/api?username=Tahasaif3&limit=5&theme=dracula&combine_all_yearly_contributions=true">
-<img src="https://github-contributor-stats.vercel.app/api?username=Tahasaif3&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repsitorys">
+<a href="https://github-contributor-stats.vercel.app/api?username=Aonmuhammad49&limit=5&theme=dracula&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aonmuhammad49&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repositories">
+</a>
+
 <hr>
 <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
 <hr>
 <p align="center">
 ❤️منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر❤️<br>
@@ -126,5 +162,7 @@
 ❤️سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں دنیا تیری بدل دے وہ سجدہ تلاش کر ❤️<br>
 ❤️ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر ❤️<br>
 ❤️ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں ❤️<br>
-
 </p>
+
+</div>
+
