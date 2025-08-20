@@ -1,18 +1,81 @@
-# 💫 About Me:
-I'm currently working on Frontend Developer<br>I'm currently Learning on Backend Developer<br> I’m looking to collaborate with other content creators and developers
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=true&random=false&width=700&lines=✨Hey,+I'm+Aon+Muhammad+✨;✨Aspiring+AI+Enthusiast+✨;✨A+passionate+Frontend+Developer+✨;✨Currently+Learning+Gen+AI+✨)](https://git.io/typing-svg)
 
+<hr>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61554365529756) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aonmuhammadchohan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aon-muhammad-chohan-700332345/) 
+<img align="right" alt="Coding" width="400" height="250" style="border-radius:20px;" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-# 💻 Tech Stack:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aonmuhammad49&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aonmuhammad49&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aonmuhammad49&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+### 🚀 About Me  
+💡 I'm a Student and Tech Enthusiast.<br>  
+• 🌱 I’m currently diving into **Cloud Applied Generative AI Engineering**.<br>  
+• 💻 Specialized **Frontend Developer** with expertise in **Next.js, React, TypeScript, Tailwind CSS**.<br>  
+• ⚡ Exploring **AI, Backend Development, and Cloud Technologies**.<br>  
+• 👨‍💻 Based in **Pakistan**, crafting dynamic and scalable web applications.<br>  
+• ✨ 2+ years of hands-on experience building **modern, responsive UIs** with cutting-edge tools.<br>  
+• 💬 Always open to collaborations and new opportunities.<br>  
 
----
-[![](https://visitcount.itsvg.in/api?id=Aonmuhammad49&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤝 Connect With Me  
+
+<p align="center">
+  <a href="mailto:aon0342chohan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" /></a>
+  <a href="https://web.telegram.org/a/"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" /></a>
+  <a href="https://www.linkedin.com/in/aonmuhammadchohan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61568467793100"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=F0DB4F" /></a>
+  <a href="https://www.instagram.com/aonmuhammadchohan/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" /></a>
+  <a href="https://www.youtube.com/@AonMuhammadchohan"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" /></a>
+  <a href="https://www.fiverr.com/s/e61pLY4"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" /></a>
+  <a href="https://gitroll.io/profile/uNea16fY7RJcGsKX8MlD2n25Q6E03"><img src="https://img.shields.io/badge/GitRoll-0D1117?style=for-the-badge&logo=git&logoColor=F0DB4F" /></a>
+</p>  
+
+<hr>
+
+### 🏆 Achievements  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aonmuhammad49&theme=onedark&row=2&column=3)](https://github.com/Aonmuhammad49/github-profile-trophy)
+
+<hr>
+
+### 📊 GitHub Highlights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aonmuhammad49&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aonmuhammad49&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aonmuhammad49&theme=dark&bg_color=0D1117" />
+</p>
+
+<hr>
+
+### ⚡ Skills  
+
+| JavaScript | TypeScript | React | Next.js |
+|------------|------------|-------|---------|
+| HTML5 | CSS3 | Tailwind CSS | SASS |
+| Node.js | MongoDB | MySQL | Firebase |
+| Git | GitHub | Solidity | Rust |
+| Figma | Canva | Styled Components | Chakra UI |
+
+<hr>
+
+### 🧩 Contributions Snake  
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</p>
+
+<hr>
+
+### ❤️ Urdu Poetry  
+
+<p align="center">
+منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر ❤️<br>
+ہر شخص جل رہا ہے عداوت کی آگ میں اس آگ کو بجھا دے وہ پانی تلاش کر ❤️<br>
+سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں دنیا تیری بدل دے وہ سجدہ تلاش کر ❤️<br>
+ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر ❤️<br>
+ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں ❤️<br>
+</p>
