@@ -20,8 +20,7 @@
 • 💬 Always open to collaborations and opportunities. Let’s connect on **Telegram (@Tsaif22)**.<br>
 
 <hr>
-
-  ### 🤝 Connect With Me
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
 <p align="center">
   <a href="mailto:aon0342chohan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" /></a>
   <a href="https://web.telegram.org/a/"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" /></a>
