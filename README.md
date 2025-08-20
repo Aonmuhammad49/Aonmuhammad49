@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=true&random=false&width=700&lines=✨Hey,+I'm+Aon+Muhammad+✨;✨Aspiring+AI+Enthusiast+✨;✨A+passionate+Frontend+Developer+✨;✨Currently+Learning+Gen+AI+✨)](https://git.io/typing-svg)
+<center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&repeat=true&random=false&width=700&lines=✨Hey,+I'm+Aon+Muhammad+✨;✨Aspiring+AI+Enthusiast+✨;✨A+passionate+Frontend+Developer+✨;✨Currently+Learning+Gen+AI+✨)](https://git.io/typing-svg)<center/>
 
 <hr>
 
