@@ -46,11 +46,14 @@
 
 ### 🏆 Achievements<div align="center">
 
+<div align="center">
+
 <a href="https://github.com/Aonmuhammad49/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aonmuhammad49&theme=onedark&row=2&column=3" alt="trophy" width="600" height="300"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aonmuhammad49&theme=onedark&row=2&column=3" alt="trophy" width="450" height="220"/>
 </a>
 
 </div>
+
 
 
 <hr>
