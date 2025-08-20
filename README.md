@@ -53,18 +53,36 @@
 </div>
 
 <hr>
-<h2>:label: 🧩 GitHub Highlights</h2>
-
+<h2 align="center">:label: 🧩 GitHub Highlights</h2>
 <p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aonmuhammad49&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" />
-</p>
-<p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Aonmuhammad49&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" />
-</p>
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Aonmuhammad49&theme=dark&bg_color=0D1117" />
+  <!-- Contributions Badge -->
+  <img alt="Contributions" src="https://github-contributor-stats.vercel.app/api?username=Aonmuhammad49&limit=5&theme=dark&bg_color=000000" />
 </p>
 
+<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px; margin-top: 20px;">
+<p align="center">
+  <!-- Profile Views -->
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Aonmuhammad49&style=flat&color=000000&label=Profile+Views" />
+
+  <!-- Total Stars -->
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/Aonmuhammad49?label=Total+Stars&style=flat-square&color=black" />
+
+  <!-- Followers -->
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Aonmuhammad49?style=flat-square&color=black" />
+  </div>
+  <hr style="border-color: #333333; margin: 20px 0;">
+<h2>:label: 🧩 Profile Badgess</h2>
+<p align="center">
+  <img alt="Contributors Badge" src="https://user-badge.committers.top/pakistan/YOUR_USERNAME.svg?color=black" />
+  <a href="https://github.com/sponsors/Aonmuhammad49">
+    <img alt="Sponsor Me" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-black?logo=github" />
+  </a>
+</p>
+<hr>
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 <hr>
 
 ### ⚡ Skills
